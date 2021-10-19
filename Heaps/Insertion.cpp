@@ -1,3 +1,8 @@
+// Heaps Follows following 3 properties :-
+// * Binary Tree
+// * Complete Binary Tree
+// * Heap Order Property
+
 #include<iostream>
 #include<vector>
 using namespace std;
